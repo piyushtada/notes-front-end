@@ -52,6 +52,10 @@ Step 5 Push the branch to your remote repository.
 
 git push -u origin test/forking-example 
 
+# gh auth login
+
+
+
 # resources 
 
 Git Cheatsheet
